@@ -39,8 +39,8 @@ body {
     background-color: #241f5c  !important;  
 }
 
-.ace-chaos .ace-gutter {
-  background: #030D22  !important;
+.ace-chaos .ace_gutter {
+  background: #030D22 !important;
   color: #e300bd !important;
 }
 
