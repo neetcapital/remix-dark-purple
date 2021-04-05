@@ -22,11 +22,11 @@ body {
 }
 
 .bg-light {
-  background-color: #0A052C !important
+  background-color: #0A052C !important;
 }
 
 .plugin-manager {
-  background-color: #030D22 !important
+  background: #030D22 !important;
 }
 
 .ace-editor {
