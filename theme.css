@@ -5,7 +5,7 @@
 
 body {
   font-size: 1rem !important;
-  color: #D7DBE0;
+  color: #D7DBE0 i !important;
   background-color: #030D22 !important;
 }
 
@@ -18,14 +18,14 @@ body {
 }
 
 .ace-chaos .ace_marker-layer .ace_active-line {
-    background: #1F1F41;
+    background: #1F1F41 !important;
 }
 
 .bg-light {
   background-color: #0A052C !important;
 }
 
-.panel_13OfqK.plugin-manager {
+.panel_13OfqK {
   background: #030D22 !important;
 }
 
