@@ -25,7 +25,7 @@ body {
   background-color: #0A052C !important;
 }
 
-.plugin-manager {
+#side-panel > section.plugin-manager {
   background: #030D22 !important;
 }
 
