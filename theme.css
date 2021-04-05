@@ -69,9 +69,9 @@ body {
 }
 
 .ace-chaos .ace_marker-layer .ace_bracket {
-    border: 1px solid #FF32DD;
-    background: #580a53;
-    border-radius: 2px;
+    border: 1px solid #FF32DD !important;
+    background: #580a53 !important;
+    border-radius: 2px !important;
 }
 
 .ace-chaos .ace_string {
