@@ -1,7 +1,4 @@
-@font-face {
-  font-family: FiraCode;
-  src: url("https://github.com/neetcapital/remix-dark-purple/blob/579219c4e816adf0da0d31a568602d46fa451251/FiraCode-Light.ttf") format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
 
 body {
   font-size: 1rem !important;
@@ -30,7 +27,7 @@ body {
 }
 
 .ace_editor {
-  font-family: "FiraCode", 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace !important;
+  font-family: "Fira Code", 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace !important;
 }
 
 .nav-tabs .nav-link {
