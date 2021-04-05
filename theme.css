@@ -49,6 +49,10 @@ body {
   color: #fc0 !important;
 }
 
+.ace-chaos .ace_gutter-cell.ace_error {
+  color: white;
+}
+
 .ace-chaos {
     background: #030D22 !important;
     color: #D7DBE0 !important;
